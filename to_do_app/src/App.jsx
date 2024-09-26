@@ -1,7 +1,7 @@
 // websites used : talwindcss(for importing tailwind), uuid nmp(for creating unique id install uuid),
 
 import { useState, useEffect } from "react";
-import Navbar from "./assets/components/Navbar";
+import Navbar from "./components/Navbar";
 // taken from react icon website
 import { FaEdit } from "react-icons/fa";
 import { MdDelete } from "react-icons/md";
